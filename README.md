@@ -1,5 +1,5 @@
 # Portfolio 
 
-[See Live Site]()
+[See Live Site](https://lniceth.github.io/Updated-Portfolio/#about)
 
 ![site](screenshot.png)
